@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "agribot-backend",
   "version": "1.0.0",
   "description": "A simple backend for a Gemini chatbot.",
