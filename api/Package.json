@@ -2,13 +2,7 @@
   "type": "module",
   "name": "agribot-backend",
   "version": "1.0.0",
-  "description": "A simple backend for a Gemini chatbot.",
-  "main": "api/index.js",
-  "scripts": {
-    "start": "node api/index.js"
-  },
   "dependencies": {
-    "@google/generative-ai": "^0.1.3",
-    "express": "^4.18.2"
+    "@google/generative-ai": "^0.1.3"
   }
 }
